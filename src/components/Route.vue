@@ -15,5 +15,9 @@ export default {
 </script>
 
 <style>
+.router-link-exact-active { 
+    /* router-link를 클릭 시 색갈 바뀜  */
+    color: red;
+}
 
 </style>
